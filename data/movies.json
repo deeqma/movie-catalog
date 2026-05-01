@@ -1,0 +1,1689 @@
+[
+  {
+    "id": 1,
+    "movie_id": "tt0477347",
+    "poster_image_path": "",
+    "release_year": 2006,
+    "title_name": "Night at the Museum"
+  },
+  {
+    "id": 2,
+    "movie_id": "tt2692250",
+    "poster_image_path": "",
+    "release_year": 2014,
+    "title_name": "Night at the Museum: Secret of the Tomb"
+  },
+  {
+    "id": 3,
+    "movie_id": "tt0110912",
+    "poster_image_path": "",
+    "release_year": 1994,
+    "title_name": "Pulp Fiction"
+  },
+  {
+    "id": 4,
+    "movie_id": "tt0208092",
+    "poster_image_path": "",
+    "release_year": 2000,
+    "title_name": "Snatch"
+  },
+  {
+    "id": 5,
+    "movie_id": "tt8367814",
+    "poster_image_path": "",
+    "release_year": 2019,
+    "title_name": "The Gentlemen"
+  },
+  {
+    "id": 6,
+    "movie_id": "tt0264464",
+    "poster_image_path": "",
+    "release_year": 2002,
+    "title_name": "Catch Me If You Can"
+  },
+  {
+    "id": 7,
+    "movie_id": "tt7624934",
+    "poster_image_path": "",
+    "release_year": 2018,
+    "title_name": "Zoo"
+  },
+  {
+    "id": 8,
+    "movie_id": "tt6391282",
+    "poster_image_path": "",
+    "release_year": 2020,
+    "title_name": "Paradise Z"
+  },
+  {
+    "id": 9,
+    "movie_id": "tt0111512",
+    "poster_image_path": "",
+    "release_year": 1994,
+    "title_name": "Drunken Master II"
+  },
+  {
+    "id": 10,
+    "movie_id": "tt1192628",
+    "poster_image_path": "",
+    "release_year": 2011,
+    "title_name": "Rango"
+  },
+  {
+    "id": 11,
+    "movie_id": "tt5052448",
+    "poster_image_path": "",
+    "release_year": 2017,
+    "title_name": "Get Out"
+  },
+  {
+    "id": 12,
+    "movie_id": "tt2103281",
+    "poster_image_path": "",
+    "release_year": 2014,
+    "title_name": "Dawn of the Planet of the Apes"
+  },
+  {
+    "id": 13,
+    "movie_id": "tt0074308",
+    "poster_image_path": "",
+    "release_year": 1976,
+    "title_name": "Chesty Anderson U.S. Navy"
+  },
+  {
+    "id": 14,
+    "movie_id": "tt1272012",
+    "poster_image_path": "",
+    "release_year": 2009,
+    "title_name": "Fri os fra det onde"
+  },
+  {
+    "id": 15,
+    "movie_id": "tt10151854",
+    "poster_image_path": "",
+    "release_year": 2023,
+    "title_name": "Shazam! Fury of the Gods"
+  },
+  {
+    "id": 16,
+    "movie_id": "tt0448115",
+    "poster_image_path": "",
+    "release_year": 2019,
+    "title_name": "Shazam!"
+  },
+  {
+    "id": 17,
+    "movie_id": "tt10872600",
+    "poster_image_path": "",
+    "release_year": 2021,
+    "title_name": "Spider-Man: No Way Home"
+  },
+  {
+    "id": 18,
+    "movie_id": "tt9376612",
+    "poster_image_path": "",
+    "release_year": 2021,
+    "title_name": "Shang-Chi and the Legend of the Ten Rings"
+  },
+  {
+    "id": 19,
+    "movie_id": "tt0267804",
+    "poster_image_path": "",
+    "release_year": 2001,
+    "title_name": "The One"
+  },
+  {
+    "id": 20,
+    "movie_id": "tt1663202",
+    "poster_image_path": "",
+    "release_year": 2015,
+    "title_name": "The Revenant"
+  },
+  {
+    "id": 21,
+    "movie_id": "tt0293429",
+    "poster_image_path": "",
+    "release_year": 2021,
+    "title_name": "Mortal Kombat"
+  },
+  {
+    "id": 22,
+    "movie_id": "tt0427954",
+    "poster_image_path": "",
+    "release_year": 2005,
+    "title_name": "The Protector"
+  },
+  {
+    "id": 23,
+    "movie_id": "tt3322940",
+    "poster_image_path": "",
+    "release_year": 2014,
+    "title_name": "Annabelle"
+  },
+  {
+    "id": 24,
+    "movie_id": "tt5140878",
+    "poster_image_path": "",
+    "release_year": 2017,
+    "title_name": "Annabelle: Creation"
+  },
+  {
+    "id": 25,
+    "movie_id": "tt8350360",
+    "poster_image_path": "",
+    "release_year": 2019,
+    "title_name": "Annabelle Comes Home"
+  },
+  {
+    "id": 26,
+    "movie_id": "tt0993846",
+    "poster_image_path": "",
+    "release_year": 2013,
+    "title_name": "The Wolf of Wall Street"
+  },
+  {
+    "id": 27,
+    "movie_id": "tt1375666",
+    "poster_image_path": "",
+    "release_year": 2010,
+    "title_name": "Inception"
+  },
+  {
+    "id": 28,
+    "movie_id": "tt7286456",
+    "poster_image_path": "",
+    "release_year": 2019,
+    "title_name": "Joker"
+  },
+  {
+    "id": 29,
+    "movie_id": "tt11315808",
+    "poster_image_path": "",
+    "release_year": 2024,
+    "title_name": "Joker: Folie à Deux"
+  },
+  {
+    "id": 30,
+    "movie_id": "tt0360717",
+    "poster_image_path": "",
+    "release_year": 2005,
+    "title_name": "King Kong"
+  },
+  {
+    "id": 31,
+    "movie_id": "tt13433802",
+    "poster_image_path": "",
+    "release_year": 2024,
+    "title_name": "A Quiet Place: Day One"
+  },
+  {
+    "id": 32,
+    "movie_id": "tt6644200",
+    "poster_image_path": "",
+    "release_year": 2018,
+    "title_name": "A Quiet Place"
+  },
+  {
+    "id": 33,
+    "movie_id": "tt8332922",
+    "poster_image_path": "",
+    "release_year": 2020,
+    "title_name": "A Quiet Place Part II"
+  },
+  {
+    "id": 34,
+    "movie_id": "tt4154664",
+    "poster_image_path": "",
+    "release_year": 2019,
+    "title_name": "Captain Marvel"
+  },
+  {
+    "id": 35,
+    "movie_id": "tt10676048",
+    "poster_image_path": "",
+    "release_year": 2023,
+    "title_name": "The Marvels"
+  },
+  {
+    "id": 36,
+    "movie_id": "tt0848228",
+    "poster_image_path": "",
+    "release_year": 2012,
+    "title_name": "The Avengers"
+  },
+  {
+    "id": 37,
+    "movie_id": "tt3480822",
+    "poster_image_path": "",
+    "release_year": 2021,
+    "title_name": "Black Widow"
+  },
+  {
+    "id": 38,
+    "movie_id": "tt2395427",
+    "poster_image_path": "",
+    "release_year": 2015,
+    "title_name": "Avengers: Age of Ultron"
+  },
+  {
+    "id": 39,
+    "movie_id": "tt1300854",
+    "poster_image_path": "",
+    "release_year": 2013,
+    "title_name": "Iron Man 3"
+  },
+  {
+    "id": 40,
+    "movie_id": "tt1825683",
+    "poster_image_path": "",
+    "release_year": 2018,
+    "title_name": "Black Panther"
+  },
+  {
+    "id": 41,
+    "movie_id": "tt9114286",
+    "poster_image_path": "",
+    "release_year": 2022,
+    "title_name": "Black Panther: Wakanda Forever"
+  },
+  {
+    "id": 42,
+    "movie_id": "tt6263850",
+    "poster_image_path": "",
+    "release_year": 2024,
+    "title_name": "Deadpool & Wolverine"
+  },
+  {
+    "id": 43,
+    "movie_id": "tt1431045",
+    "poster_image_path": "",
+    "release_year": 2016,
+    "title_name": "Deadpool"
+  },
+  {
+    "id": 44,
+    "movie_id": "tt5463162",
+    "poster_image_path": "",
+    "release_year": 2018,
+    "title_name": "Deadpool 2"
+  },
+  {
+    "id": 45,
+    "movie_id": "tt14539740",
+    "poster_image_path": "",
+    "release_year": 2024,
+    "title_name": "Godzilla x Kong: The New Empire"
+  },
+  {
+    "id": 46,
+    "movie_id": "tt0831387",
+    "poster_image_path": "",
+    "release_year": 2014,
+    "title_name": "Godzilla"
+  },
+  {
+    "id": 47,
+    "movie_id": "tt5034838",
+    "poster_image_path": "",
+    "release_year": 2021,
+    "title_name": "Godzilla vs. Kong"
+  },
+  {
+    "id": 48,
+    "movie_id": "tt3741700",
+    "poster_image_path": "",
+    "release_year": 2019,
+    "title_name": "Godzilla: King of the Monsters"
+  },
+  {
+    "id": 49,
+    "movie_id": "tt3774114",
+    "poster_image_path": "",
+    "release_year": 2016,
+    "title_name": "Snowden"
+  },
+  {
+    "id": 50,
+    "movie_id": "tt0068646",
+    "poster_image_path": "",
+    "release_year": 1972,
+    "title_name": "The Godfather"
+  },
+  {
+    "id": 51,
+    "movie_id": "tt0071562",
+    "poster_image_path": "",
+    "release_year": 1974,
+    "title_name": "The Godfather Part II"
+  },
+  {
+    "id": 52,
+    "movie_id": "tt0099674",
+    "poster_image_path": "",
+    "release_year": 1990,
+    "title_name": "The Godfather Part III"
+  },
+  {
+    "id": 53,
+    "movie_id": "tt0075148",
+    "poster_image_path": "",
+    "release_year": 1976,
+    "title_name": "Rocky"
+  },
+  {
+    "id": 54,
+    "movie_id": "tt0089927",
+    "poster_image_path": "",
+    "release_year": 1985,
+    "title_name": "Rocky IV"
+  },
+  {
+    "id": 55,
+    "movie_id": "tt0479143",
+    "poster_image_path": "",
+    "release_year": 2006,
+    "title_name": "Rocky Balboa"
+  },
+  {
+    "id": 56,
+    "movie_id": "tt0084602",
+    "poster_image_path": "",
+    "release_year": 1982,
+    "title_name": "Rocky III"
+  },
+  {
+    "id": 57,
+    "movie_id": "tt0073629",
+    "poster_image_path": "",
+    "release_year": 1975,
+    "title_name": "The Rocky Horror Picture Show"
+  },
+  {
+    "id": 58,
+    "movie_id": "tt0816692",
+    "poster_image_path": "",
+    "release_year": 2014,
+    "title_name": "Interstellar"
+  },
+  {
+    "id": 59,
+    "movie_id": "tt5056352",
+    "poster_image_path": "",
+    "release_year": 2017,
+    "title_name": "Interstellar Civil War: Shadows of the Empire"
+  },
+  {
+    "id": 60,
+    "movie_id": "tt1392170",
+    "poster_image_path": "",
+    "release_year": 2012,
+    "title_name": "The Hunger Games"
+  },
+  {
+    "id": 61,
+    "movie_id": "tt1951264",
+    "poster_image_path": "",
+    "release_year": 2013,
+    "title_name": "The Hunger Games: Catching Fire"
+  },
+  {
+    "id": 62,
+    "movie_id": "tt0892769",
+    "poster_image_path": "",
+    "release_year": 2010,
+    "title_name": "How to Train Your Dragon"
+  },
+  {
+    "id": 63,
+    "movie_id": "tt1646971",
+    "poster_image_path": "",
+    "release_year": 2014,
+    "title_name": "How to Train Your Dragon 2"
+  },
+  {
+    "id": 64,
+    "movie_id": "tt7456310",
+    "poster_image_path": "",
+    "release_year": 2019,
+    "title_name": "Anna"
+  },
+  {
+    "id": 65,
+    "movie_id": "tt3076658",
+    "poster_image_path": "",
+    "release_year": 2015,
+    "title_name": "Creed"
+  },
+  {
+    "id": 66,
+    "movie_id": "tt11145118",
+    "poster_image_path": "",
+    "release_year": 2023,
+    "title_name": "Creed III"
+  },
+  {
+    "id": 67,
+    "movie_id": "tt6343314",
+    "poster_image_path": "",
+    "release_year": 2018,
+    "title_name": "Creed II"
+  },
+  {
+    "id": 68,
+    "movie_id": "tt15398776",
+    "poster_image_path": "",
+    "release_year": 2023,
+    "title_name": "Oppenheimer"
+  },
+  {
+    "id": 69,
+    "movie_id": "tt1853728",
+    "poster_image_path": "",
+    "release_year": 2012,
+    "title_name": "Django Unchained"
+  },
+  {
+    "id": 70,
+    "movie_id": "tt8633478",
+    "poster_image_path": "",
+    "release_year": 2020,
+    "title_name": "Run"
+  },
+  {
+    "id": 71,
+    "movie_id": "tt1160419",
+    "poster_image_path": "",
+    "release_year": 2021,
+    "title_name": "Dune"
+  },
+  {
+    "id": 72,
+    "movie_id": "tt15239678",
+    "poster_image_path": "",
+    "release_year": 2024,
+    "title_name": "Dune: Part Two"
+  },
+  {
+    "id": 73,
+    "movie_id": "tt7131622",
+    "poster_image_path": "",
+    "release_year": 2019,
+    "title_name": "Once Upon a Time... in Hollywood"
+  },
+  {
+    "id": 74,
+    "movie_id": "tt12593682",
+    "poster_image_path": "",
+    "release_year": 2022,
+    "title_name": "Bullet Train"
+  },
+  {
+    "id": 75,
+    "movie_id": "tt1670345",
+    "poster_image_path": "",
+    "release_year": 2013,
+    "title_name": "Now You See Me"
+  },
+  {
+    "id": 76,
+    "movie_id": "tt3110958",
+    "poster_image_path": "",
+    "release_year": 2016,
+    "title_name": "Now You See Me 2"
+  },
+  {
+    "id": 77,
+    "movie_id": "tt6723592",
+    "poster_image_path": "",
+    "release_year": 2020,
+    "title_name": "Tenet"
+  },
+  {
+    "id": 78,
+    "movie_id": "tt11286314",
+    "poster_image_path": "",
+    "release_year": 2021,
+    "title_name": "Don't Look Up"
+  },
+  {
+    "id": 79,
+    "movie_id": "tt8946378",
+    "poster_image_path": "",
+    "release_year": 2019,
+    "title_name": "Knives Out"
+  },
+  {
+    "id": 80,
+    "movie_id": "tt1790864",
+    "poster_image_path": "",
+    "release_year": 2014,
+    "title_name": "The Maze Runner"
+  },
+  {
+    "id": 81,
+    "movie_id": "tt4500922",
+    "poster_image_path": "",
+    "release_year": 2018,
+    "title_name": "Maze Runner: The Death Cure"
+  },
+  {
+    "id": 82,
+    "movie_id": "tt4046784",
+    "poster_image_path": "",
+    "release_year": 2015,
+    "title_name": "Maze Runner: The Scorch Trials"
+  },
+  {
+    "id": 83,
+    "movie_id": "tt1856101",
+    "poster_image_path": "",
+    "release_year": 2017,
+    "title_name": "Blade Runner 2049"
+  },
+  {
+    "id": 84,
+    "movie_id": "tt0083658",
+    "poster_image_path": "",
+    "release_year": 1982,
+    "title_name": "Blade Runner"
+  },
+  {
+    "id": 85,
+    "movie_id": "tt0123964",
+    "poster_image_path": "",
+    "release_year": 1999,
+    "title_name": "Life"
+  },
+  {
+    "id": 86,
+    "movie_id": "tt1950186",
+    "poster_image_path": "",
+    "release_year": 2019,
+    "title_name": "Ford v Ferrari"
+  },
+  {
+    "id": 87,
+    "movie_id": "tt0048266",
+    "poster_image_path": "",
+    "release_year": 1955,
+    "title_name": "The Heart"
+  },
+  {
+    "id": 88,
+    "movie_id": "tt0392878",
+    "poster_image_path": "",
+    "release_year": 2008,
+    "title_name": "The Onion Movie"
+  },
+  {
+    "id": 89,
+    "movie_id": "tt0095016",
+    "poster_image_path": "",
+    "release_year": 1988,
+    "title_name": "Die Hard"
+  },
+  {
+    "id": 90,
+    "movie_id": "tt0454921",
+    "poster_image_path": "",
+    "release_year": 2006,
+    "title_name": "The Pursuit of Happyness"
+  },
+  {
+    "id": 91,
+    "movie_id": "tt0137523",
+    "poster_image_path": "",
+    "release_year": 1999,
+    "title_name": "Fight Club"
+  },
+  {
+    "id": 92,
+    "movie_id": "tt0133093",
+    "poster_image_path": "",
+    "release_year": 1999,
+    "title_name": "The Matrix"
+  },
+  {
+    "id": 93,
+    "movie_id": "tt10838180",
+    "poster_image_path": "",
+    "release_year": 2021,
+    "title_name": "The Matrix Resurrections"
+  },
+  {
+    "id": 94,
+    "movie_id": "tt0234215",
+    "poster_image_path": "",
+    "release_year": 2003,
+    "title_name": "The Matrix Reloaded"
+  },
+  {
+    "id": 95,
+    "movie_id": "tt0242653",
+    "poster_image_path": "",
+    "release_year": 2003,
+    "title_name": "The Matrix Revolutions"
+  },
+  {
+    "id": 96,
+    "movie_id": "tt6710474",
+    "poster_image_path": "",
+    "release_year": 2022,
+    "title_name": "Everything Everywhere All at Once"
+  },
+  {
+    "id": 97,
+    "movie_id": "tt0111161",
+    "poster_image_path": "",
+    "release_year": 1994,
+    "title_name": "The Shawshank Redemption"
+  },
+  {
+    "id": 98,
+    "movie_id": "tt11464826",
+    "poster_image_path": "",
+    "release_year": 2020,
+    "title_name": "The Social Dilemma"
+  },
+  {
+    "id": 99,
+    "movie_id": "tt4472508",
+    "poster_image_path": "",
+    "release_year": 2020,
+    "title_name": "Death in Texas"
+  },
+  {
+    "id": 100,
+    "movie_id": "tt6949498",
+    "poster_image_path": "",
+    "release_year": 2018,
+    "title_name": "SuperGrid"
+  },
+  {
+    "id": 101,
+    "movie_id": "tt0110167",
+    "poster_image_path": "",
+    "release_year": 1994,
+    "title_name": "It Could Happen to You"
+  },
+  {
+    "id": 102,
+    "movie_id": "tt0088247",
+    "poster_image_path": "",
+    "release_year": 1984,
+    "title_name": "The Terminator"
+  },
+  {
+    "id": 103,
+    "movie_id": "tt0103064",
+    "poster_image_path": "",
+    "release_year": 1991,
+    "title_name": "Terminator 2: Judgment Day"
+  },
+  {
+    "id": 104,
+    "movie_id": "tt6450804",
+    "poster_image_path": "",
+    "release_year": 2019,
+    "title_name": "Terminator: Dark Fate"
+  },
+  {
+    "id": 105,
+    "movie_id": "tt0438488",
+    "poster_image_path": "",
+    "release_year": 2009,
+    "title_name": "Terminator Salvation"
+  },
+  {
+    "id": 106,
+    "movie_id": "tt1340138",
+    "poster_image_path": "",
+    "release_year": 2015,
+    "title_name": "Terminator Genisys"
+  },
+  {
+    "id": 107,
+    "movie_id": "tt0181852",
+    "poster_image_path": "",
+    "release_year": 2003,
+    "title_name": "Terminator 3: Rise of the Machines"
+  },
+  {
+    "id": 108,
+    "movie_id": "tt27534073",
+    "poster_image_path": "",
+    "release_year": 2024,
+    "title_name": "Terminator: Skynet Rising"
+  },
+  {
+    "id": 109,
+    "movie_id": "tt0098321",
+    "poster_image_path": "",
+    "release_year": 1989,
+    "title_name": "Terminator II"
+  },
+  {
+    "id": 110,
+    "movie_id": "tt16344906",
+    "poster_image_path": "",
+    "release_year": 2023,
+    "title_name": "Terminator 7: Algorithm"
+  },
+  {
+    "id": 111,
+    "movie_id": "tt0095483",
+    "poster_image_path": "",
+    "release_year": 1989,
+    "title_name": "Lady Terminator"
+  },
+  {
+    "id": 112,
+    "movie_id": "tt9362722",
+    "poster_image_path": "",
+    "release_year": 2023,
+    "title_name": "Spider-Man: Across the Spider-Verse"
+  },
+  {
+    "id": 113,
+    "movie_id": "tt0145487",
+    "poster_image_path": "",
+    "release_year": 2002,
+    "title_name": "Spider-Man"
+  },
+  {
+    "id": 114,
+    "movie_id": "tt4633694",
+    "poster_image_path": "",
+    "release_year": 2018,
+    "title_name": "Spider-Man: Into the Spider-Verse"
+  },
+  {
+    "id": 115,
+    "movie_id": "tt2250912",
+    "poster_image_path": "",
+    "release_year": 2017,
+    "title_name": "Spider-Man: Homecoming"
+  },
+  {
+    "id": 116,
+    "movie_id": "tt0413300",
+    "poster_image_path": "",
+    "release_year": 2007,
+    "title_name": "Spider-Man 3"
+  },
+  {
+    "id": 117,
+    "movie_id": "tt0316654",
+    "poster_image_path": "",
+    "release_year": 2004,
+    "title_name": "Spider-Man 2"
+  },
+  {
+    "id": 118,
+    "movie_id": "tt0948470",
+    "poster_image_path": "",
+    "release_year": 2012,
+    "title_name": "The Amazing Spider-Man"
+  },
+  {
+    "id": 119,
+    "movie_id": "tt1872181",
+    "poster_image_path": "",
+    "release_year": 2014,
+    "title_name": "The Amazing Spider-Man 2"
+  },
+  {
+    "id": 120,
+    "movie_id": "tt1270797",
+    "poster_image_path": "",
+    "release_year": 2018,
+    "title_name": "Venom"
+  },
+  {
+    "id": 121,
+    "movie_id": "tt16366836",
+    "poster_image_path": "",
+    "release_year": 2024,
+    "title_name": "Venom: The Last Dance"
+  },
+  {
+    "id": 122,
+    "movie_id": "tt7097896",
+    "poster_image_path": "",
+    "release_year": 2021,
+    "title_name": "Venom: Let There Be Carnage"
+  },
+  {
+    "id": 123,
+    "movie_id": "tt0172495",
+    "poster_image_path": "",
+    "release_year": 2000,
+    "title_name": "Gladiator"
+  },
+  {
+    "id": 124,
+    "movie_id": "tt1396484",
+    "poster_image_path": "",
+    "release_year": 2017,
+    "title_name": "It"
+  },
+  {
+    "id": 125,
+    "movie_id": "tt3235888",
+    "poster_image_path": "",
+    "release_year": 2014,
+    "title_name": "It Follows"
+  },
+  {
+    "id": 126,
+    "movie_id": "tt7349950",
+    "poster_image_path": "",
+    "release_year": 2019,
+    "title_name": "It Chapter Two"
+  },
+  {
+    "id": 127,
+    "movie_id": "tt4154796",
+    "poster_image_path": "",
+    "release_year": 2019,
+    "title_name": "Avengers: Endgame"
+  },
+  {
+    "id": 128,
+    "movie_id": "tt4154756",
+    "poster_image_path": "",
+    "release_year": 2018,
+    "title_name": "Avengers: Infinity War"
+  },
+  {
+    "id": 129,
+    "movie_id": "tt21357150",
+    "poster_image_path": "",
+    "release_year": 2026,
+    "title_name": "Avengers: The Kang Dynasty"
+  },
+  {
+    "id": 130,
+    "movie_id": "tt14513804",
+    "poster_image_path": "",
+    "release_year": 2025,
+    "title_name": "Captain America: Brave New World"
+  },
+  {
+    "id": 131,
+    "movie_id": "tt3498820",
+    "poster_image_path": "",
+    "release_year": 2016,
+    "title_name": "Captain America: Civil War"
+  },
+  {
+    "id": 132,
+    "movie_id": "tt0458339",
+    "poster_image_path": "",
+    "release_year": 2011,
+    "title_name": "Captain America: The First Avenger"
+  },
+  {
+    "id": 133,
+    "movie_id": "tt1843866",
+    "poster_image_path": "",
+    "release_year": 2014,
+    "title_name": "Captain America: The Winter Soldier"
+  },
+  {
+    "id": 134,
+    "movie_id": "tt0103923",
+    "poster_image_path": "",
+    "release_year": 1990,
+    "title_name": "Captain America"
+  },
+  {
+    "id": 135,
+    "movie_id": "tt1745960",
+    "poster_image_path": "",
+    "release_year": 2022,
+    "title_name": "Top Gun: Maverick"
+  },
+  {
+    "id": 136,
+    "movie_id": "tt0241527",
+    "poster_image_path": "",
+    "release_year": 2001,
+    "title_name": "Harry Potter and the Sorcerer's Stone"
+  },
+  {
+    "id": 137,
+    "movie_id": "tt0330373",
+    "poster_image_path": "",
+    "release_year": 2005,
+    "title_name": "Harry Potter and the Goblet of Fire"
+  },
+  {
+    "id": 138,
+    "movie_id": "tt0304141",
+    "poster_image_path": "",
+    "release_year": 2004,
+    "title_name": "Harry Potter and the Prisoner of Azkaban"
+  },
+  {
+    "id": 139,
+    "movie_id": "tt0295297",
+    "poster_image_path": "",
+    "release_year": 2002,
+    "title_name": "Harry Potter and the Chamber of Secrets"
+  },
+  {
+    "id": 140,
+    "movie_id": "tt1201607",
+    "poster_image_path": "",
+    "release_year": 2011,
+    "title_name": "Harry Potter and the Deathly Hallows: Part 2"
+  },
+  {
+    "id": 141,
+    "movie_id": "tt0373889",
+    "poster_image_path": "",
+    "release_year": 2007,
+    "title_name": "Harry Potter and the Order of the Phoenix"
+  },
+  {
+    "id": 142,
+    "movie_id": "tt0926084",
+    "poster_image_path": "",
+    "release_year": 2010,
+    "title_name": "Harry Potter and the Deathly Hallows: Part 1"
+  },
+  {
+    "id": 143,
+    "movie_id": "tt0417741",
+    "poster_image_path": "",
+    "release_year": 2009,
+    "title_name": "Harry Potter and the Half-Blood Prince"
+  },
+  {
+    "id": 144,
+    "movie_id": "tt30517220",
+    "poster_image_path": "",
+    "release_year": 2008,
+    "title_name": "Harry Potter und der geheime Pornokeller"
+  },
+  {
+    "id": 145,
+    "movie_id": "tt7783322",
+    "poster_image_path": "",
+    "release_year": 2017,
+    "title_name": "Harry Potter: A History of Magic"
+  },
+  {
+    "id": 146,
+    "movie_id": "tt2404233",
+    "poster_image_path": "",
+    "release_year": 2016,
+    "title_name": "Gods of Egypt"
+  },
+  {
+    "id": 147,
+    "movie_id": "tt0478970",
+    "poster_image_path": "",
+    "release_year": 2015,
+    "title_name": "Ant-Man"
+  },
+  {
+    "id": 148,
+    "movie_id": "tt10954600",
+    "poster_image_path": "",
+    "release_year": 2023,
+    "title_name": "Ant-Man and the Wasp: Quantumania"
+  },
+  {
+    "id": 149,
+    "movie_id": "tt5095030",
+    "poster_image_path": "",
+    "release_year": 2018,
+    "title_name": "Ant-Man and the Wasp"
+  },
+  {
+    "id": 150,
+    "movie_id": "tt0119695",
+    "poster_image_path": "",
+    "release_year": 1997,
+    "title_name": "Money Talks"
+  },
+  {
+    "id": 151,
+    "movie_id": "tt1211837",
+    "poster_image_path": "",
+    "release_year": 2016,
+    "title_name": "Doctor Strange"
+  },
+  {
+    "id": 152,
+    "movie_id": "tt9419884",
+    "poster_image_path": "",
+    "release_year": 2022,
+    "title_name": "Doctor Strange in the Multiverse of Madness"
+  },
+  {
+    "id": 153,
+    "movie_id": "tt1220719",
+    "poster_image_path": "",
+    "release_year": 2008,
+    "title_name": "Ip Man"
+  },
+  {
+    "id": 154,
+    "movie_id": "tt2076298",
+    "poster_image_path": "",
+    "release_year": 2019,
+    "title_name": "Ip Man 4: The Finale"
+  },
+  {
+    "id": 155,
+    "movie_id": "tt1386932",
+    "poster_image_path": "",
+    "release_year": 2010,
+    "title_name": "Ip Man 2"
+  },
+  {
+    "id": 156,
+    "movie_id": "tt2888046",
+    "poster_image_path": "",
+    "release_year": 2015,
+    "title_name": "Ip Man 3"
+  },
+  {
+    "id": 157,
+    "movie_id": "tt7262882",
+    "poster_image_path": "",
+    "release_year": 2018,
+    "title_name": "Master Z: The Ip Man Legacy"
+  },
+  {
+    "id": 158,
+    "movie_id": "tt5439796",
+    "poster_image_path": "",
+    "release_year": 2017,
+    "title_name": "Logan Lucky"
+  },
+  {
+    "id": 159,
+    "movie_id": "tt2015381",
+    "poster_image_path": "",
+    "release_year": 2014,
+    "title_name": "Guardians of the Galaxy"
+  },
+  {
+    "id": 160,
+    "movie_id": "tt6791350",
+    "poster_image_path": "",
+    "release_year": 2023,
+    "title_name": "Guardians of the Galaxy Vol. 3"
+  },
+  {
+    "id": 161,
+    "movie_id": "tt3896198",
+    "poster_image_path": "",
+    "release_year": 2017,
+    "title_name": "Guardians of the Galaxy Vol. 2"
+  },
+  {
+    "id": 162,
+    "movie_id": "tt1446192",
+    "poster_image_path": "",
+    "release_year": 2012,
+    "title_name": "Rise of the Guardians"
+  },
+  {
+    "id": 163,
+    "movie_id": "tt1219342",
+    "poster_image_path": "",
+    "release_year": 2010,
+    "title_name": "Legend of the Guardians: The Owls of Ga'Hoole"
+  },
+  {
+    "id": 164,
+    "movie_id": "tt0343818",
+    "poster_image_path": "",
+    "release_year": 2004,
+    "title_name": "I, Robot"
+  },
+  {
+    "id": 165,
+    "movie_id": "tt0371746",
+    "poster_image_path": "",
+    "release_year": 2008,
+    "title_name": "Iron Man"
+  },
+  {
+    "id": 166,
+    "movie_id": "tt1228705",
+    "poster_image_path": "",
+    "release_year": 2010,
+    "title_name": "Iron Man 2"
+  },
+  {
+    "id": 167,
+    "movie_id": "tt0120744",
+    "poster_image_path": "",
+    "release_year": 1998,
+    "title_name": "The Man in the Iron Mask"
+  },
+  {
+    "id": 168,
+    "movie_id": "tt0369610",
+    "poster_image_path": "",
+    "release_year": 2015,
+    "title_name": "Jurassic World"
+  },
+  {
+    "id": 169,
+    "movie_id": "tt8041270",
+    "poster_image_path": "",
+    "release_year": 2022,
+    "title_name": "Jurassic World Dominion"
+  },
+  {
+    "id": 170,
+    "movie_id": "tt31036941",
+    "poster_image_path": "",
+    "release_year": 2025,
+    "title_name": "Jurassic World 4"
+  },
+  {
+    "id": 171,
+    "movie_id": "tt12826878",
+    "poster_image_path": "",
+    "release_year": 2018,
+    "title_name": "Mission Imposible"
+  },
+  {
+    "id": 172,
+    "movie_id": "tt10465998",
+    "poster_image_path": "",
+    "release_year": 2018,
+    "title_name": "The Imposible Mission"
+  },
+  {
+    "id": 173,
+    "movie_id": "tt0117060",
+    "poster_image_path": "",
+    "release_year": 1996,
+    "title_name": "Mission: Impossible"
+  },
+  {
+    "id": 174,
+    "movie_id": "tt0356910",
+    "poster_image_path": "",
+    "release_year": 2005,
+    "title_name": "Mr. & Mrs. Smith"
+  },
+  {
+    "id": 175,
+    "movie_id": "tt0325980",
+    "poster_image_path": "",
+    "release_year": 2003,
+    "title_name": "Pirates of the Caribbean: The Curse of the Black Pearl"
+  },
+  {
+    "id": 176,
+    "movie_id": "tt1790809",
+    "poster_image_path": "",
+    "release_year": 2017,
+    "title_name": "Pirates of the Caribbean: Dead Men Tell No Tales"
+  },
+  {
+    "id": 177,
+    "movie_id": "tt0449088",
+    "poster_image_path": "",
+    "release_year": 2007,
+    "title_name": "Pirates of the Caribbean: At World's End"
+  },
+  {
+    "id": 178,
+    "movie_id": "tt0383574",
+    "poster_image_path": "",
+    "release_year": 2006,
+    "title_name": "Pirates of the Caribbean: Dead Man's Chest"
+  },
+  {
+    "id": 179,
+    "movie_id": "tt1298650",
+    "poster_image_path": "",
+    "release_year": 2011,
+    "title_name": "Pirates of the Caribbean: On Stranger Tides"
+  },
+  {
+    "id": 180,
+    "movie_id": "tt1392190",
+    "poster_image_path": "",
+    "release_year": 2015,
+    "title_name": "Mad Max: Fury Road"
+  },
+  {
+    "id": 181,
+    "movie_id": "tt5108870",
+    "poster_image_path": "",
+    "release_year": 2022,
+    "title_name": "Morbius"
+  },
+  {
+    "id": 182,
+    "movie_id": "tt0120812",
+    "poster_image_path": "",
+    "release_year": 1998,
+    "title_name": "Rush Hour"
+  },
+  {
+    "id": 183,
+    "movie_id": "tt0266915",
+    "poster_image_path": "",
+    "release_year": 2001,
+    "title_name": "Rush Hour 2"
+  },
+  {
+    "id": 184,
+    "movie_id": "tt0293564",
+    "poster_image_path": "",
+    "release_year": 2007,
+    "title_name": "Rush Hour 3"
+  },
+  {
+    "id": 185,
+    "movie_id": "tt0290095",
+    "poster_image_path": "",
+    "release_year": 2002,
+    "title_name": "The Tuxedo"
+  },
+  {
+    "id": 186,
+    "movie_id": "tt1273678",
+    "poster_image_path": "",
+    "release_year": 2010,
+    "title_name": "The Spy Next Door"
+  },
+  {
+    "id": 187,
+    "movie_id": "tt0865556",
+    "poster_image_path": "",
+    "release_year": 2008,
+    "title_name": "The Forbidden Kingdom"
+  },
+  {
+    "id": 188,
+    "movie_id": "tt0288045",
+    "poster_image_path": "",
+    "release_year": 2003,
+    "title_name": "The Medallion"
+  },
+  {
+    "id": 189,
+    "movie_id": "tt1155076",
+    "poster_image_path": "",
+    "release_year": 2010,
+    "title_name": "The Karate Kid"
+  },
+  {
+    "id": 190,
+    "movie_id": "tt10640346",
+    "poster_image_path": "",
+    "release_year": 2022,
+    "title_name": "Babylon"
+  },
+  {
+    "id": 191,
+    "movie_id": "tt1684562",
+    "poster_image_path": "",
+    "release_year": 2024,
+    "title_name": "The Fall Guy"
+  },
+  {
+    "id": 192,
+    "movie_id": "tt6264654",
+    "poster_image_path": "",
+    "release_year": 2021,
+    "title_name": "Free Guy"
+  },
+  {
+    "id": 193,
+    "movie_id": "tt2906216",
+    "poster_image_path": "",
+    "release_year": 2023,
+    "title_name": "Dungeons & Dragons: Honor Among Thieves"
+  },
+  {
+    "id": 194,
+    "movie_id": "tt0110200",
+    "poster_image_path": "",
+    "release_year": 1994,
+    "title_name": "Fist of Legend"
+  },
+  {
+    "id": 195,
+    "movie_id": "tt2274648",
+    "poster_image_path": "",
+    "release_year": 2019,
+    "title_name": "Hellboy"
+  },
+  {
+    "id": 196,
+    "movie_id": "tt0167190",
+    "poster_image_path": "",
+    "release_year": 2004,
+    "title_name": "Hellboy"
+  },
+  {
+    "id": 197,
+    "movie_id": "tt9764362",
+    "poster_image_path": "",
+    "release_year": 2022,
+    "title_name": "The Menu"
+  },
+  {
+    "id": 198,
+    "movie_id": "tt1144884",
+    "poster_image_path": "",
+    "release_year": 2009,
+    "title_name": "The Final Destination"
+  },
+  {
+    "id": 199,
+    "movie_id": "tt0411477",
+    "poster_image_path": "",
+    "release_year": 2008,
+    "title_name": "Hellboy II: The Golden Army"
+  },
+  {
+    "id": 200,
+    "movie_id": "tt6857112",
+    "poster_image_path": "",
+    "release_year": 2019,
+    "title_name": "Us"
+  },
+  {
+    "id": 201,
+    "movie_id": "tt0120873",
+    "poster_image_path": "",
+    "release_year": 1998,
+    "title_name": "U.S. Marshals"
+  },
+  {
+    "id": 202,
+    "movie_id": "tt2708782",
+    "poster_image_path": "",
+    "release_year": 2013,
+    "title_name": "Vi"
+  },
+  {
+    "id": 203,
+    "movie_id": "tt0069834",
+    "poster_image_path": "",
+    "release_year": 1973,
+    "title_name": "Cahill U.S. Marshal"
+  },
+  {
+    "id": 204,
+    "movie_id": "tt1631867",
+    "poster_image_path": "",
+    "release_year": 2014,
+    "title_name": "Edge of Tomorrow"
+  },
+  {
+    "id": 205,
+    "movie_id": "tt1259528",
+    "poster_image_path": "",
+    "release_year": 2018,
+    "title_name": "Den of Thieves"
+  },
+  {
+    "id": 206,
+    "movie_id": "tt32141377",
+    "poster_image_path": "",
+    "release_year": 2026,
+    "title_name": "28 Years Later: The Bone Temple"
+  },
+  {
+    "id": 207,
+    "movie_id": "tt14364480",
+    "poster_image_path": "",
+    "release_year": 2025,
+    "title_name": "Wake Up Dead Man"
+  },
+  {
+    "id": 208,
+    "movie_id": "tt0381707",
+    "poster_image_path": "",
+    "release_year": 2004,
+    "title_name": "White Chicks"
+  },
+  {
+    "id": 209,
+    "movie_id": "tt12300742",
+    "poster_image_path": "",
+    "release_year": 2025,
+    "title_name": "Bugonia"
+  },
+  {
+    "id": 210,
+    "movie_id": "tt1312221",
+    "poster_image_path": "",
+    "release_year": 2025,
+    "title_name": "Frankenstein"
+  },
+  {
+    "id": 211,
+    "movie_id": "tt30144839",
+    "poster_image_path": "",
+    "release_year": 2025,
+    "title_name": "One Battle After Another"
+  },
+  {
+    "id": 212,
+    "movie_id": "tt1596363",
+    "poster_image_path": "",
+    "release_year": 2015,
+    "title_name": "The Big Short"
+  },
+  {
+    "id": 213,
+    "movie_id": "tt9410034",
+    "poster_image_path": "",
+    "release_year": 2021,
+    "title_name": "The Last Bus"
+  },
+  {
+    "id": 214,
+    "movie_id": "tt26581740",
+    "poster_image_path": "",
+    "release_year": 2025,
+    "title_name": "Weapons"
+  },
+  {
+    "id": 215,
+    "movie_id": "tt0119396",
+    "poster_image_path": "",
+    "release_year": 1997,
+    "title_name": "Jackie Brown"
+  },
+  {
+    "id": 216,
+    "movie_id": "tt7069210",
+    "poster_image_path": "",
+    "release_year": 2021,
+    "title_name": "The Conjuring: The Devil Made Me Do It"
+  },
+  {
+    "id": 217,
+    "movie_id": "tt3065204",
+    "poster_image_path": "",
+    "release_year": 2016,
+    "title_name": "The Conjuring 2"
+  },
+  {
+    "id": 218,
+    "movie_id": "tt1457767",
+    "poster_image_path": "",
+    "release_year": 2013,
+    "title_name": "The Conjuring"
+  },
+  {
+    "id": 219,
+    "movie_id": "tt3488710",
+    "poster_image_path": "",
+    "release_year": 2015,
+    "title_name": "The Walk"
+  },
+  {
+    "id": 220,
+    "movie_id": "tt16311594",
+    "poster_image_path": "",
+    "release_year": 2025,
+    "title_name": "F1: The Movie"
+  },
+  {
+    "id": 221,
+    "movie_id": "tt0119081",
+    "poster_image_path": "",
+    "release_year": 1997,
+    "title_name": "Event Horizon"
+  },
+  {
+    "id": 222,
+    "movie_id": "tt1343727",
+    "poster_image_path": "",
+    "release_year": 2012,
+    "title_name": "Dredd"
+  },
+  {
+    "id": 223,
+    "movie_id": "tt17526714",
+    "poster_image_path": "",
+    "release_year": 2024,
+    "title_name": "The Substance"
+  },
+  {
+    "id": 224,
+    "movie_id": "tt0448134",
+    "poster_image_path": "",
+    "release_year": 2007,
+    "title_name": "Sunshine"
+  },
+  {
+    "id": 225,
+    "movie_id": "tt29268110",
+    "poster_image_path": "",
+    "release_year": 2024,
+    "title_name": "Smile 2"
+  },
+  {
+    "id": 226,
+    "movie_id": "tt31434639",
+    "poster_image_path": "",
+    "release_year": 2025,
+    "title_name": "Warfare"
+  },
+  {
+    "id": 227,
+    "movie_id": "tt3890160",
+    "poster_image_path": "",
+    "release_year": 2017,
+    "title_name": "Baby Driver"
+  },
+  {
+    "id": 228,
+    "movie_id": "tt1211956",
+    "poster_image_path": "",
+    "release_year": 2013,
+    "title_name": "Escape Plan"
+  },
+  {
+    "id": 229,
+    "movie_id": "tt13652142",
+    "poster_image_path": "",
+    "release_year": 2023,
+    "title_name": "Magazine Dreams"
+  },
+  {
+    "id": 230,
+    "movie_id": "tt0450385",
+    "poster_image_path": "",
+    "release_year": 2007,
+    "title_name": "1408"
+  },
+  {
+    "id": 231,
+    "movie_id": "tt27657135",
+    "poster_image_path": "",
+    "release_year": 2024,
+    "title_name": "Saturday Night"
+  },
+  {
+    "id": 232,
+    "movie_id": "tt0414982",
+    "poster_image_path": "",
+    "release_year": 2006,
+    "title_name": "Final Destination 3"
+  },
+  {
+    "id": 233,
+    "movie_id": "tt1130884",
+    "poster_image_path": "",
+    "release_year": 2010,
+    "title_name": "Shutter Island"
+  },
+  {
+    "id": 234,
+    "movie_id": "tt0765429",
+    "poster_image_path": "",
+    "release_year": 2007,
+    "title_name": "American Gangster"
+  },
+  {
+    "id": 235,
+    "movie_id": "tt13654226",
+    "poster_image_path": "",
+    "release_year": 2025,
+    "title_name": "The Gorge"
+  },
+  {
+    "id": 236,
+    "movie_id": "tt5537002",
+    "poster_image_path": "",
+    "release_year": 2023,
+    "title_name": "Killers of the Flower Moon"
+  },
+  {
+    "id": 237,
+    "movie_id": "tt8790086",
+    "poster_image_path": "",
+    "release_year": 2024,
+    "title_name": "Kraven the Hunter"
+  },
+  {
+    "id": 238,
+    "movie_id": "tt5362988",
+    "poster_image_path": "",
+    "release_year": 2017,
+    "title_name": "Wind River"
+  },
+  {
+    "id": 239,
+    "movie_id": "tt0477348",
+    "poster_image_path": "",
+    "release_year": 2007,
+    "title_name": "No Country for Old Men"
+  },
+  {
+    "id": 240,
+    "movie_id": "tt0381849",
+    "poster_image_path": "",
+    "release_year": 2007,
+    "title_name": "3:10 to Yuma"
+  },
+  {
+    "id": 241,
+    "movie_id": "tt3460252",
+    "poster_image_path": "",
+    "release_year": 2015,
+    "title_name": "The Hateful Eight"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "movie_id": "tt9140554",
+    "poster_image_path": "",
+    "release_year": 2021,
+    "title_name": "Loki"
+  },
+  {
+    "id": 2,
+    "movie_id": "tt4052886",
+    "poster_image_path": "",
+    "release_year": 2016,
+    "title_name": "Lucifer"
+  },
+  {
+    "id": 3,
+    "movie_id": "tt1190634",
+    "poster_image_path": "",
+    "release_year": 2019,
+    "title_name": "The Boys"
+  },
+  {
+    "id": 4,
+    "movie_id": "tt7366338",
+    "poster_image_path": "",
+    "release_year": 2019,
+    "title_name": "Chernobyl"
+  },
+  {
+    "id": 5,
+    "movie_id": "tt0944947",
+    "poster_image_path": "",
+    "release_year": 2011,
+    "title_name": "Game of Thrones"
+  },
+  {
+    "id": 6,
+    "movie_id": "tt5071412",
+    "poster_image_path": "",
+    "release_year": 2017,
+    "title_name": "Ozark"
+  },
+  {
+    "id": 7,
+    "movie_id": "tt26453092",
+    "poster_image_path": "",
+    "release_year": 2025,
+    "title_name": "The Mighty Nein"
+  },
+  {
+    "id": 8,
+    "movie_id": "tt11126994",
+    "poster_image_path": "",
+    "release_year": 2021,
+    "title_name": "Arcane"
+  },
+  {
+    "id": 9,
+    "movie_id": "tt0903747",
+    "poster_image_path": "",
+    "release_year": 2008,
+    "title_name": "Breaking Bad"
+  },
+  {
+    "id": 10,
+    "movie_id": "tt15435876",
+    "poster_image_path": "",
+    "release_year": 2024,
+    "title_name": "The Penguin"
+  },
+  {
+    "id": 11,
+    "movie_id": "tt30428188",
+    "poster_image_path": "",
+    "release_year": 2024,
+    "title_name": "Fight Night: The Million Dollar Heist"
+  },
+  {
+    "id": 12,
+    "movie_id": "tt1199099",
+    "poster_image_path": "",
+    "release_year": 2008,
+    "title_name": "Merlin"
+  },
+  {
+    "id": 13,
+    "movie_id": "tt4574334",
+    "poster_image_path": "",
+    "release_year": 2016,
+    "title_name": "Stranger Things"
+  },
+  {
+    "id": 14,
+    "movie_id": "tt3032476",
+    "poster_image_path": "",
+    "release_year": 2015,
+    "title_name": "Better Call Saul"
+  },
+  {
+    "id": 15,
+    "movie_id": "tt0460681",
+    "poster_image_path": "",
+    "release_year": 2005,
+    "title_name": "Supernatural"
+  }
+]

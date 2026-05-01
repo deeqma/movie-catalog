@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Movie Menu</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main>
+      <section class="library-controls" aria-label="Library controls">
+        <div class="media-toggle" role="tablist" aria-label="Media type">
+          <button id="movies-toggle" class="toggle-button active" type="button" data-media="movies">Movies</button>
+          <button id="tv-toggle" class="toggle-button" type="button" data-media="tv">TV Shows</button>
+        </div>
+
+        <div class="filters" aria-label="Filters">
+          <label>
+            Tag
+            <select id="tag-filter">
+              <option value="">All</option>
+            </select>
+          </label>
+
+          <label>
+            Rating
+            <input id="rating-filter" type="number" min="0" max="10" step="0.1" placeholder="0+" />
+          </label>
+
+          <label>
+            Genre
+            <select id="genre-filter">
+              <option value="">All</option>
+            </select>
+          </label>
+
+          <label>
+            Oscar
+            <select id="oscar-filter">
+              <option value="">All</option>
+              <option value="wins">Wins</option>
+              <option value="nominations">Nominations</option>
+            </select>
+          </label>
+
+          <button id="clear-filters" class="clear-button" type="button">Clear</button>
+        </div>
+      </section>
+
+      <section id="movie-gallery" class="scene -gallery" aria-live="polite"></section>
+    </main>
+
+    <div id="movie-modal" class="modal-backdrop hidden" role="dialog" aria-modal="true">
+      <div class="modal-content">
+        <button id="close-modal" class="close-button" type="button" aria-label="Close movie details">x</button>
+        <div id="modal-body"></div>
+      </div>
+    </div>
+
+    <footer>
+      <p class="footer-disclaimer">This is a personal, non-commercial project to track and remember movies. All movie data (except tags) is sourced from IMDb. All images, posters, and trademarks belong to their respective owners. This site is not affiliated with or endorsed by IMDb or any rights holders.</p>
+      <p>&copy; 2026 Mohamed Ali</p>
+    </footer>
+
+    <script src="main.js"></script>
+  </body>
+</html>
