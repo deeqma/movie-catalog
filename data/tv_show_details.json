@@ -313,5 +313,25 @@
     "title_name": "Supernatural",
     "type": "tvSeries",
     "end_year": 2020
+  },
+  {
+    "id": 16,
+    "actor": "Sarah Paulson, Kathy Bates, Angela Bassett, Lady Gaga",
+    "country_of_origin": "United States",
+    "director": "Bradley Buecker, Alfonso Gomez-Rejon, Jennifer Lynch",
+    "genre": "Drama, Horror, Sci-Fi, Thriller",
+    "movie_id": "tt1844624",
+    "oscar_nominations": 0,
+    "oscar_wins": 0,
+    "personal_review": null,
+    "poster_image_name": "tt1844624.jpg",
+    "rating": 7.9,
+    "release_year": 2011,
+    "runtime": "1h 0m",
+    "spoken_languages": "English",
+    "summary": "An anthology horror drama series centering on different characters and locations, showcasing different aspects of horror. Created and produced by Ryan Murphy and Brad Falchuk.",
+    "tagname": "Entertainment",
+    "title_name": "American Horror Story",
+    "type": "tvSeries"
   }
 ]
