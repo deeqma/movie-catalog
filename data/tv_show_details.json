@@ -333,5 +333,25 @@
     "tagname": "Entertainment",
     "title_name": "American Horror Story",
     "type": "tvSeries"
+  },
+  {
+    "id": 17,
+    "actor": "Laura Bailey, Taliesin Jaffe, Ashley Johnson, Travis Willingham, Liam O'Brien, Marisha Ray, Sam Riegel",
+    "country_of_origin": "United States",
+    "director": "Chris Prynoski, Critical Role",
+    "genre": "Animation, Action, Adventure, Comedy, Fantasy",
+    "movie_id": "tt11247158",
+    "oscar_nominations": 0,
+    "oscar_wins": 0,
+    "personal_review": null,
+    "poster_image_name": "tt11247158.jpg",
+    "rating": 8.4,
+    "release_year": 2022,
+    "runtime": "30m",
+    "spoken_languages": "English",
+    "summary": "A rowdy group of misfit mercenaries becomes Exandria's newest band of heroes when the realm is threatened by evil.",
+    "tagname": "Entertainment",
+    "title_name": "The Legend of Vox Machina",
+    "type": "tvSeries"
   }
 ]
